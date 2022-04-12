@@ -401,7 +401,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">Get <span>a </span> Quote</a>
+											<a href=" https://wa.me/+254705777959">Get <span>a </span> Quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -424,7 +424,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -444,7 +444,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -467,7 +467,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401"">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959"">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -487,7 +487,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -510,7 +510,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -533,7 +533,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href=" https://wa.me/+254700688401">get <span>a </span> quote</a>
+											<a href=" https://wa.me/+254705777959">get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
@@ -553,7 +553,7 @@
 									<div class="new-arrival-cart">
 										<p>
 											<span class="lnr lnr-cart"></span>
-											<a href= "https://wa.me/+254700688401">Get <span>a </span> quote</a>
+											<a href= "https://wa.me/+254705777959">Get <span>a </span> quote</a>
 										</p>
 										<p class="arrival-review pull-right">
 											<span class="lnr lnr-heart"></span>
